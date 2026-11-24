@@ -24,7 +24,9 @@ const INVITACIONES = [
   { token: "leopoldo-vargas", nombre: "Leopoldo Vargas", max: 1 },
   { token: "adulfo", nombre: "Adulfo", max: 1 },
   { token: "familia-angel", nombre: "Familia Ángel", max: 3 },
-  { token: "familia-ambar", nombre: "Familia Ámbar", max: 8 }
+  { token: "familia-ambar", nombre: "Familia Ámbar", max: 6 },
+  { token: "ricardo-zacarias", nombre: "Ricardo Zacarías", max: 1 },
+  { token: "oscar-vazquez", nombre: "Óscar Vázquez", max: 1 }
 ];
 
 function configurarBoda() {
